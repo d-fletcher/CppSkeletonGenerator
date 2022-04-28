@@ -9,7 +9,6 @@ using namespace std;
 void solve() {
   // Write solution here.
 
-  return 0;
 }
 
 int main() {
