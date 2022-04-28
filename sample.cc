@@ -6,7 +6,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int Solution(int n) {
+void solve() {
   // Write solution here.
 
   return 0;
@@ -17,9 +17,7 @@ int main() {
   cin >> t;
 
   for (int tc=1; tc<=t; ++tc) {
-    int n; //put input paramters here.
-    cin >> n;
-
-    cout << "Case #" << tc << ": " << Solution(n) << endl;
+    cout << "Case #" << tc << ": ";
+    solve();
   }
 }
